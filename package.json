@@ -1,0 +1,20 @@
+{
+  "name": "generator-isi",
+  "version": "1.0.0",
+  "description": "Scaffolding a nextJS APP to consume Jhipster API",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "type": "module",
+  "author": "Gabriel Rodrigues Segalla",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^3.2.0",
+    "node-fetch": "^2.6.1",
+    "simple-git": "^3.20.0",
+    "yeoman-generator": "^6.0.1"
+  }
+}
