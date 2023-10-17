@@ -8,16 +8,20 @@ Scaffolding a nextJS APP to consume Jhipster API
 
 ## Getting Started
 
-1. Install this repository:
+1. Install :
 
    ```bash
    npm install -g https://github.com/gabrielsegalla/generator-isi.git
     ```
 
+    ```bash
+   npm install -g yo
+    ```
+
 2. Run:
 
    ```bash
-   yo generator-isi
+   yo isi
     ```
 
         
