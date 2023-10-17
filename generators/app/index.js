@@ -5,12 +5,12 @@ import { simpleGit } from 'simple-git';
 
 import * as fs from 'fs';
 
-export default class extends Generator {
+export default class Index extends Generator {
   
 
   constructor(args, opts) {
     super(args, opts);
-    this.argument('ISI', { type: String, required: false });
+    this.argument('generator-isi', { type: String, required: false });
   }
 
   // Async Await
